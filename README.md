@@ -1,5 +1,7 @@
 # 🎮 Gaming Room 3D Tasarım
 
+![Gaming Room Render](BeyzaErdem_Render.png)
+
 Blender ile hazırlanmış, pembe-mor renk paleti ve damalı zemin detaylarıyla özgün bir gaming odası 3D modeli ve render çalışması.
 
 ## 📁 Dosyalar
